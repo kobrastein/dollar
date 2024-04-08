@@ -7,3 +7,5 @@ projectx
 
 
 #### strategie
+
+# checker
